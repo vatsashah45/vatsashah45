@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vatsa
-- 👀 I’m interested in Web/App Developer, AI/ML and Software Development.
+- 👀 I’m interested in Web/App Development, AI/ML and Software Development.
 - 🌱 I’m currently learning the MERN Stack (MongoDB, Express, React.JS and Node.JS)
 - 📫 You can reach me via email at vatsashah45@gmail.com or through LinkedIn at https://www.linkedin.com/in/vatsashah01/ 
 
