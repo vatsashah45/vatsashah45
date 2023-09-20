@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vatsa Shah</h1>
-<h3 align="center">{sports, machine learning, software engineering, statistics}</h3>
+<h3 align="center">{sports, machine learning, software engineering, statistics, hackathons}</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsashah45&label=Profile%20views&color=0e75b6&style=flat" alt="vatsashah45" /> </p>
 
